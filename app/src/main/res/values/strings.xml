@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assaignment1</string>
+    <string name="you_can_search_for_movies_using_title_year_and_movie_genre">You can search for movies using title, year and movie genre</string>
+    <string name="welcome_to_purple_movies">WELCOME TO PURPLE MOVIES</string>
+    <string-array name="Types">
+        <item>Title</item>
+        <item>Year</item>
+        <item>Genre</item>
+
+    </string-array>
+</resources>
